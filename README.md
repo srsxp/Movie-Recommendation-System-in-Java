@@ -4,9 +4,7 @@
 * K-Nearest Neighbourhood Algorithm
 
 ## MovieLens Latest Datasets
-
-![alt Grouplens](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2BSUWPgGHEyVksj9WVbCgd6Evad5zPTqSn63rLvINGcHcmcaB)
-
+<div style="text-align:center"><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2BSUWPgGHEyVksj9WVbCgd6Evad5zPTqSn63rLvINGcHcmcaB" /></div>
 
 These datasets will change over time, and are not appropriate for reporting research results. We will keep the download links stable for automated downloads. We will not archive or make available previously released versions.
 
