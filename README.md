@@ -5,7 +5,7 @@
 
 ## MovieLens Latest Datasets
 
-![alt Grouplens](https://md.ekstrandom.net/talks/2014/recsys2014/grouplens.png)
+![alt Grouplens](https://grouplens.org/assets/img/logo-161.png)
 
 
 These datasets will change over time, and are not appropriate for reporting research results. We will keep the download links stable for automated downloads. We will not archive or make available previously released versions.
